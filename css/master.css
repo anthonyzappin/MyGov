@@ -1,0 +1,68 @@
+h1 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 8em;
+}
+
+label {
+  font-size: 1.3em;
+}
+
+.twitter {
+  font-weight:bold;
+  color: rgba(163, 226, 255, 1);
+}
+
+.rowFormat {
+  padding: 1.3em;
+  border-radius: 25px;
+  margin-right:2em;
+  margin-left: 2em;
+  margin-top: .3em;
+}
+
+.form-group {
+  color:black;
+}
+
+.leftSpaceM {
+  padding-left: .83em;
+}
+
+.leftSpaceL {
+  padding-left: 2em;
+}
+.rightSpaceM {
+  padding-right: .83em;
+}
+.topSpaceL {
+  padding-top: 1.3em;
+}
+
+.topSpaceM {
+  padding-top: .833em;
+}
+
+.topSpaceS {
+  padding-top: .3em;
+}
+
+.bottomSpaceM {
+  padding-bottom: .833em;
+}
+
+.doubleTop {
+  border-top: thick double black;
+}
+
+.darkBox {
+  background-color: blue;
+  color:white;
+}
+
+.darkerBox {
+  background-color:black;
+}
+
+#searchButton {
+  background-color: red;
+}
